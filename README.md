@@ -8,3 +8,5 @@ Se han implementado unos primitivos controles para moverse por la escena con el 
 Más información en la documentación del proyecto y en el manual de usuario.
 
 **Note:** *This project was made with CLion CMake and Conan. I cannot give you tips on how to build it. If you have CLion, CMake and Conan and you put the textures into the folder* `cmake-build-debug` *it should work fine.*
+
+#### Hecho junto a la única e inigualable ~~Cabrilla Marilla~~ [Mara Luque Carmona](https://github.com/maraluque)
